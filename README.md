@@ -7,4 +7,5 @@ This Role Playing Game I found a tutorial on Free Code Camp to brush up on my va
 
 ## Access this turtoial to do yourself!
 This tutorial is part of Free Code Camps Javascript Algorithims and Data Sctructures Course
+
 [Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
