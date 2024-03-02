@@ -6,4 +6,4 @@ This Role Playing Game I found a tutorial on Free Code Camp to brush up on my va
 [Role Playing Game]()
 ## Access this turtoial to do you self!
 
-[Free Code Camp Course]("https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/")
+[Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
