@@ -8,4 +8,4 @@ This Role Playing Game I found a tutorial on freeCodeCamp to brush up on my vani
 ## Access this turtoial to do yourself!
 This tutorial is part of freeCodeCamp's Javascript Algorithims and Data Sctructures Course
 
-[Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[freeCodeCamp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
